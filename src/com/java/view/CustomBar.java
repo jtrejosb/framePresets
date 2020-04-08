@@ -9,7 +9,7 @@
 *
 * Source Code Target Or Details:
 *
-*     []
+*     [Application menu bar]
 *
 * Licenses: GNU GPL v3.0, Eclipse Public License 1.0, personal use only.
 * Developer Contact: jtrejosb@live.com
@@ -43,7 +43,7 @@ public class CustomBar extends javax.swing.JMenuBar {
     P.add(new Preset("iTunes MiniPlayer",new Rectangle(92,49,281,281)));
     P.add(new Preset("Finder",new Rectangle(257,108,870,552)));
     P.add(new Preset("iTerm",new Rectangle(18,20,850,744)));
-    P.add(new Preset("iTerm [centered]",new Rectangle(165,20,950,747)));
+    P.add(new Preset("iTerm [centered]",new Rectangle(163,20,954,747)));
     P.add(new Preset("Sublime Text",new Rectangle(165,22,950,747)));
     P.add(new Preset("Default Java Frame",Preset.DEFAULT_RECT));
     menu=new JMenu("View");
