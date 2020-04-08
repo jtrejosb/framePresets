@@ -38,11 +38,11 @@ public class CustomBar extends javax.swing.JMenuBar {
   private JMenuItem itQ;
   private ArrayList<Preset> P=new ArrayList<>();
   public CustomBar() {
-    P.add(new Preset("Safari [no tabs]",new Rectangle(18,22,1240,736)));
+    P.add(new Preset("Safari [no tabs]",new Rectangle(19,23,1238,737)));
     P.add(new Preset("iTunes",new Rectangle(92,49,1100,699)));
     P.add(new Preset("iTunes MiniPlayer",new Rectangle(92,49,281,281)));
     P.add(new Preset("Finder",new Rectangle(257,108,870,552)));
-    P.add(new Preset("iTerm",new Rectangle(18,20,850,744)));
+    P.add(new Preset("iTerm",new Rectangle(19,20,850,744)));
     P.add(new Preset("iTerm [centered]",new Rectangle(163,20,954,747)));
     P.add(new Preset("Sublime Text",new Rectangle(165,22,950,747)));
     P.add(new Preset("Default Java Frame",Preset.DEFAULT_RECT));
