@@ -21,7 +21,7 @@ import com.java.controller.ToolController;
 import com.java.view.CustomBar;
 import com.java.view.Tool;
 
-public class ToolMain {
+public class Presets {
   public static void main(String[] args) {
     CustomBar CB=new CustomBar();
     Tool T=new Tool();
